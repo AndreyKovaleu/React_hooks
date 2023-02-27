@@ -1,11 +1,13 @@
 import CounterOne from "./components/CounterOne";
+import CounterThree from "./components/CounterThree";
 import CounterTwo from "./components/CounterTwo";
 
 function App() {
   return (
     <div className="App">
       {/* <CounterOne /> */}
-      <CounterTwo />
+      {/* <CounterTwo /> */}
+      <CounterThree />
     </div>
   );
 }
